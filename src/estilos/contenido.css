@@ -1,0 +1,17 @@
+.contenedorContenido {
+    width: auto;
+    height: auto;
+    margin: 10px 10px 50px;
+    display: flex;
+    background-color: #141414;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.contenedorTexto {
+    text-align: justify;
+}
+p{
+    padding: 10px;
+    position: relative;
+    top: 5%;
+}
